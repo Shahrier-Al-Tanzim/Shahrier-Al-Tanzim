@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Tanzim;Software+Engineer;Competitive+Programmer;Full+Stack+Developer;Tech+Agnostic+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Tanzim;Software+Engineer;Full+Stack+Developer;Tech+Agnostic+Problem+Solver" alt="Typing SVG" />
 
   <p>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
@@ -24,16 +24,6 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
 
 ---
 
-### 🏆 Achievements
-<div align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark" title="Pull Shark: Opened a PR that was merged" />
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="100" alt="Quickdraw" title="Quickdraw: Closed an issue/PR within 5 mins" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100" alt="YOLO" title="YOLO: Merged a PR without review" />
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="100" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored a commit" />
-</div>
-
----
-
 ### 🛠️ Technical Expertise
 
 <div align="center">
@@ -42,13 +32,6 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
 | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><br/><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /><br/><img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" /><br/><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /><br/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><br/><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><br/><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /><br/><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" /> | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><br/><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><br/><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br/><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> |
 
-</div>
-
----
-
-### 📈 Coding Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahrier-Al-Tanzim&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -86,8 +69,9 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
 
 ---
 
-### 📊 Overview
+### 📊 GitHub Stats
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahrier-Al-Tanzim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=contribs" alt="Tanzim's Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahrier-Al-Tanzim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="170" />
 </div>
 
