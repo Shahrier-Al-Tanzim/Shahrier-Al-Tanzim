@@ -3,10 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Tanzim;Software+Engineer;Full+Stack+Developer;Tech+Agnostic+Problem+Solver" alt="Typing SVG" />
 
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/shahrier-tanzim" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:your_email@example.com">
+    <a href="mailto:shahrieraltanzim@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
