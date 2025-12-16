@@ -18,6 +18,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shahrier-Al-Tanzim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+---
+
 ### 👨‍💻 Professional Summary
 
 I am a **Software Engineer** with a strong foundation in algorithmic problem-solving and system design. While I have deep experience in Java/Spring and Python, I am a **technology-agnostic developer**—I focus on engineering fundamentals and can quickly adapt to any stack required to build the best solution.
@@ -25,6 +31,13 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
 * 🚀 **Open to Full-Time Opportunities:** I am looking for software engineering roles where I can contribute to impactful projects.
 * 🔄 **Adaptable:** Skilled at picking up new languages, frameworks, and tools rapidly.
 * 🧩 **Problem Solver:** My background in competitive programming allows me to write efficient, optimized, and scalable code.
+
+---
+
+### 🎖️ GitHub Achievements
+<div align="center">
+  <img src="https://github-profile-achievements.vercel.app/?username=Shahrier-Al-Tanzim&theme=tokyonight&layout=compact" alt="Achievements" />
+</div>
 
 ---
 
