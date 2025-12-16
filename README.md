@@ -2,10 +2,6 @@
 <div align="center">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Tanzim;Software+Engineering+Student;Competitive+Programmer;Java+%26+Spring+Boot+Developer;ML+Enthusiast" alt="Typing SVG" />
-
-  <p>
-     Example: Replace with your actual links or delete if not needed
-     </p>
   
   <br/>
 </div>
