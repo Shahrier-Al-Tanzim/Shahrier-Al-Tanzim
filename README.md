@@ -24,6 +24,23 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
 
 ---
 
+### 🧠 Competitive Programming
+<div align="center">
+  <p><strong>1300+</strong> Problems Solved across all platforms</p>
+  
+  <a href="https://codeforces.com/profile/Ryuzaki_L_07" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/ryuzaki_l_07" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Ryuzaki_L_07" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
+
+---
+
 ### 🛠️ Technical Expertise
 
 **Languages**
