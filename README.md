@@ -69,35 +69,48 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
 
 ### 🚀 Featured Projects Showcase
 
-<div align="center">
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Shahrier-Al-Tanzim/Patient-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahrier-Al-Tanzim&repo=Patient-Management-System&theme=tokyonight&hide_border=true&description_lines=2" alt="Patient Management" />
-      </a>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/Patient-Management-System">🏥 Patient Management System</a></h3>
+      <p align="center">A full CRUD application for managing hospital patient records with secure login and database integration.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Shahrier-Al-Tanzim/Movie-Recommendation-System-Machine-Learning-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahrier-Al-Tanzim&repo=Movie-Recommendation-System-Machine-Learning-&theme=tokyonight&hide_border=true&description_lines=2" alt="Movie Recommender" />
-      </a>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/Movie-Recommendation-System-Machine-Learning-">🎬 Movie Recommender</a></h3>
+      <p align="center">Machine Learning model using k-NN collaborative filtering to suggest movies based on user preferences.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Shahrier-Al-Tanzim/Racing-in-IUT">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahrier-Al-Tanzim&repo=Racing-in-IUT&theme=tokyonight&hide_border=true&description_lines=2" alt="Racing Game OOP" />
-      </a>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/Racing-in-IUT">🏎️ Racing in IUT</a></h3>
+      <p align="center">A simulation racing game built to demonstrate advanced Object-Oriented Design Patterns.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Design_Patterns-555555?style=flat-square" />
+        <img src="https://img.shields.io/badge/OOP-E34F26?style=flat-square" />
+      </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Shahrier-Al-Tanzim/TrafficRecordManagementSystem">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahrier-Al-Tanzim&repo=TrafficRecordManagementSystem&theme=tokyonight&hide_border=true&description_lines=2" alt="Traffic System" />
-      </a>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/TrafficRecordManagementSystem">🚦 Traffic Management</a></h3>
+      <p align="center">Records incoming/outgoing car info for traffic control using OCR and license plate detection.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
-</div>
-
 ---
 
 ### 📊 GitHub Stats
