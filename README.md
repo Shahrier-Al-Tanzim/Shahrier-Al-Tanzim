@@ -72,17 +72,37 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/Patient-Management-System">🏥 Patient Management System</a></h3>
-      <p align="center">A full CRUD application for managing hospital patient records with secure login and database integration.</p>
+      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/iut-siks">🌐 IUT SIKS Society Platform</a></h3>
+      <p align="center">Online platform for the IUT SIKS society featuring blog posting, quizzes, and event management.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/Patient-Management-System">🏥 Patient Management System</a></h3>
+      <p align="center">Full CRUD system for hospital patients utilizing Microservices, Kafka, and Docker containers.</p>
+      <p align="center">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/TrafficRecordManagementSystem">🚦 IUT TRMS (Traffic System)</a></h3>
+      <p align="center">Traffic monitoring system using YOLOv5 and EasyOCR to detect license plates.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logo=computervision&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
     <td width="50%" align="center" valign="top">
       <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/Movie-Recommendation-System-Machine-Learning-">🎬 Movie Recommender</a></h3>
-      <p align="center">Machine Learning model using k-NN collaborative filtering to suggest movies based on user preferences.</p>
+      <p align="center">k-NN collaborative filtering model to recommend movies based on user rating patterns.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
@@ -90,27 +110,8 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/Racing-in-IUT">🏎️ Racing in IUT</a></h3>
-      <p align="center">A simulation racing game built to demonstrate advanced Object-Oriented Design Patterns.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Design_Patterns-555555?style=flat-square" />
-        <img src="https://img.shields.io/badge/OOP-E34F26?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/TrafficRecordManagementSystem">🚦 Traffic Management</a></h3>
-      <p align="center">Records incoming/outgoing car info for traffic control using OCR and license plate detection.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
 </table>
+
 ---
 
 ### 📊 GitHub Stats
