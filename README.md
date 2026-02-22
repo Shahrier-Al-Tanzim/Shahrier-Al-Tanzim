@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Tanzim;Software+Engineer;Full+Stack+Developer;Tech+Agnostic+Problem+Solver" alt="Typing SVG" />
 
   <p>
+    <a href="https://shahrier-al-tanzim.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
     <a href="https://linkedin.com/in/shahrier-tanzim" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
