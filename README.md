@@ -149,10 +149,10 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Development Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahrier-Al-Tanzim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=contribs" alt="Tanzim's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahrier-Al-Tanzim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="170" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahrier-Al-Tanzim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahrier-Al-Tanzim&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="170" />
 </div>
 
 <div align="center">
