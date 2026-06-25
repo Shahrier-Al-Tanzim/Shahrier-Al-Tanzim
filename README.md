@@ -29,7 +29,7 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
 
 ### 🧠 Competitive Programming
 <div align="center">
-  <p><strong>1300+</strong> Problems Solved across all platforms</p>
+  <p><strong>1350+</strong> Problems Solved across all platforms</p>
   
   <a href="https://codeforces.com/profile/Ryuzaki_L_07" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -100,8 +100,9 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
 
 <table border="0" width="100%">
   <tr>
-  <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/fifa-wc-prediction-game">⚽ FifaPredict</a></h3>
+      <p align="center"><b><a href="https://fifa-wc-prediction-game.vercel.app" target="_blank">🔗 Live Demo</a></b></p>
       <p align="center">Next.js World Cup prediction game featuring tournament scheduling, user predictions lock, and real-time community leaderboard.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -112,6 +113,7 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
     </td>
     <td width="50%" align="center" valign="top">
       <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/e-shop">🛒 E-Shop</a></h3>
+      <p align="center"><b><a href="https://e-shop-roan.vercel.app" target="_blank">🔗 Live Demo</a></b></p>
       <p align="center">Premium e-commerce platform featuring glassmorphism, Google Gemini AI assistant (with PG function-calling), Stripe checkout, and Cloudinary hosting.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -125,6 +127,7 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
   <tr>
     <td width="50%" align="center" valign="top">
       <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/drone-traffic-analyzer">🚁 Drone Traffic Analyzer</a></h3>
+      <br/>
       <p align="center">PyQt6 desktop app using YOLOv8 and ByteTrack to track vehicles in drone footage with double-counting prevention and Excel reports.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -135,6 +138,7 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
     </td>
     <td width="50%" align="center" valign="top">
       <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/fintrack">💰 FinTrack</a></h3>
+      <p align="center"><b><a href="https://fintrack-mobile.onrender.com" target="_blank">🔗 Live Demo (Web)</a></b></p>
       <p align="center">Cross-platform personal finance ecosystem with a React Native/Expo app, Express backend, Supabase DB, and Sentry tunneling.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
