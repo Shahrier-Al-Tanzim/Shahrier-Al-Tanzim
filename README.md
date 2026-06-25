@@ -60,28 +60,37 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
 <br/>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
 
-**Data Science & ML**
+**Data Science & Machine Learning**
 <br/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 **Databases**
 <br/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-**Tools & Platforms**
+**Tools, Platforms & Libraries**
 <br/>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-39827B?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PyQt6-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white" />
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 
@@ -91,42 +100,48 @@ I am a **Software Engineer** with a strong foundation in algorithmic problem-sol
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/iut-siks">🌐 IUT SIKS Society Platform</a></h3>
-      <p align="center">Online platform for the IUT SIKS society featuring blog posting, quizzes, and event management.</p>
+  <td width="50%" align="center" valign="top">
+      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/fifa-wc-prediction-game">⚽ FifaPredict</a></h3>
+      <p align="center">Next.js World Cup prediction game featuring tournament scheduling, user predictions lock, and real-time community leaderboard.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/Patient-Management-System">🏥 Patient Management System</a></h3>
-      <p align="center">Full CRUD system for hospital patients utilizing Microservices, Kafka, and Docker containers.</p>
+      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/e-shop">🛒 E-Shop</a></h3>
+      <p align="center">Premium e-commerce platform featuring glassmorphism, Google Gemini AI assistant (with PG function-calling), Stripe checkout, and Cloudinary hosting.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/TrafficRecordManagementSystem">🚦 IUT TRMS (Traffic System)</a></h3>
-      <p align="center">Traffic monitoring system using YOLOv5 and EasyOCR to detect license plates.</p>
+      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/drone-traffic-analyzer">🚁 Drone Traffic Analyzer</a></h3>
+      <p align="center">PyQt6 desktop app using YOLOv8 and ByteTrack to track vehicles in drone footage with double-counting prevention and Excel reports.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logo=computervision&logoColor=black" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=Qt&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=computervision&logoColor=black" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/Movie-Recommendation-System-Machine-Learning-">🎬 Movie Recommender</a></h3>
-      <p align="center">k-NN collaborative filtering model to recommend movies based on user rating patterns.</p>
+      <h3 align="center"><a href="https://github.com/Shahrier-Al-Tanzim/fintrack">💰 FinTrack</a></h3>
+      <p align="center">Cross-platform personal finance ecosystem with a React Native/Expo app, Express backend, Supabase DB, and Sentry tunneling.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
   </tr>
